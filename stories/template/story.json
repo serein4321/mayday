@@ -111,7 +111,8 @@
 "name": "冠佑",
 "phone": "",
 "bio": "五月天・冠佑。"
-  {,
+ },
+ {
   "id": "test-contact",
   "name": "測試聯絡人",
   "phone": "",
