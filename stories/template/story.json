@@ -252,37 +252,32 @@
       ],
       "messages": [
         {
-"id": "test-chat-kakao",
-"app": "kakao",
-"title": "阿翊",
-"participants": [
-"owner",
-"ayi"
-],
-"messages": [
-{
-"id": "mayday-kakao-1",
-"body": "工作結束了嗎？",
-"senderId": "ayi"
-},
-{
-"id": "mayday-kakao-2",
-"body": "想吃什麼我給你帶過來。",
-"senderId": "ayi"
-},
-{
-"id": "mayday-kakao-3",
-"body": "怪獸哥怎麼今天有時間來餒，有時間的話快上網和你的粉絲經常性交流一下，你知不知道她們快瘋了吼",
-"senderId": "owner"
-},
-{
-"id": "mayday-kakao-4",
-"body": "我比較想跟你經常性交流😈",
-"senderId": "ayi"
-}
-]
+      "id": "test-chat-kakao",
+      "app": "kakao",
+      "title": "阿翊",
+      "participants": ["owner", "ayi"],
+      "messages": [
+        {
+          "id": "mayday-kakao-1",
+          "body": "工作結束了嗎？",
+          "senderId": "ayi"
+        },
+        {
+          "id": "mayday-kakao-2",
+          "body": "想吃什麼我給你帶過來。",
+          "senderId": "ayi"
+        },
+        {
+          "id": "mayday-kakao-3",
+          "body": "怪獸哥怎麼今天有時間來餒，有時間的話快上網和你的粉絲經常性交流一下，你知不知道她們快瘋了吼",
+          "senderId": "owner"
+        },
+        {
+          "id": "mayday-kakao-4",
+          "body": "我比較想跟你經常性交流😈",
+          "senderId": "ayi"
         }
-          "body": "这是一条测试消息。",
+      ]
           "senderId": "test-contact"
         },
         {
