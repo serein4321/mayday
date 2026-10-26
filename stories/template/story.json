@@ -243,16 +243,7 @@
       ]
     },
     {
-      "id": "test-chat-kakao",
-      "app": "kakao",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-      "id": "test-chat-kakao",
+      "id": "mayday-chat-kakao",
       "app": "kakao",
       "title": "阿翊",
       "participants": ["owner", "ayi"],
