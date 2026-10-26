@@ -1,17 +1,17 @@
 {
   "scriptVersion": 1,
-  "id": "ui-test-phone-v2",
-  "title": "捡手机",
+  "id": "mayday-found-phone",
+  "title": "拾遺｜陳信宏的手機",
   "description": "仅用于界面测试，不含剧情",
   "revision": 2,
-  "phone": {
-    "owner": "机主",
-    "date": "2026-10-25",
-    "time": "09:41",
-    "battery": 94,
-    "network": "5G",
-    "wallpaper": "apple-wwdc26"
-  },
+"phone": {
+"owner": "陳信宏",
+"date": "2026-10-25",
+"time": "09:41",
+"battery": 94,
+"network": "5G",
+"wallpaper": "apple-wwdc26"
+},
   "installedApps": [
     "appstore",
     {
@@ -88,12 +88,31 @@
     "kakao"
   ],
   "contacts": [
-    {
-      "id": "test-contact",
-      "name": "测试联系人",
-      "phone": "",
-      "bio": "这是一条测试内容。"
-    }
+{
+"id": "ayi",
+"name": "阿翊",
+"phone": "",
+"bio": "五月天・溫尚翊。虛構同人故事角色。"
+},
+{
+"id": "stone",
+"name": "石頭",
+"phone": "",
+"bio": "五月天・石頭。"
+},
+{
+"id": "masa",
+"name": "瑪莎",
+"phone": "",
+"bio": "五月天・瑪莎。"
+},
+{
+"id": "guan-you",
+"name": "冠佑",
+"phone": "",
+"bio": "五月天・冠佑。"
+}
+],
   ],
   "chats": [
     {
@@ -234,7 +253,37 @@
       ],
       "messages": [
         {
-          "id": "test-message-kakao",
+          {
+"id": "test-chat-kakao",
+"app": "kakao",
+"title": "阿翊",
+"participants": [
+"owner",
+"ayi"
+],
+"messages": [
+{
+"id": "mayday-kakao-1",
+"body": "工作結束了嗎？",
+"senderId": "ayi"
+},
+{
+"id": "mayday-kakao-2",
+"body": "想吃什麼我給你帶過來。",
+"senderId": "ayi"
+},
+{
+"id": "mayday-kakao-3",
+"body": "怪獸哥怎麼今天有時間來餒，有時間的話快上網和你的粉絲經常性交流一下，你知不知道她們快瘋了吼",
+"senderId": "owner"
+},
+{
+"id": "mayday-kakao-4",
+"body": "我比較想跟你經常性交流😈",
+"senderId": "ayi"
+}
+]
+        }
           "body": "这是一条测试消息。",
           "senderId": "test-contact"
         },
